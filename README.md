@@ -2,7 +2,7 @@
 
 Helper scripts to clone remote repos to local machine after a reinstall
 
-Used on **Linux** (Ubuntu 22.04) & **Windows 11 using WSL2** (with Ubuntu 22.04)
+Used on Ubuntu 22 & 24
 
 ## Setup
 
