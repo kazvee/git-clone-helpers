@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Prompt for GitHub username
-read -p "Enter your GitHub username: " GITHUB_USERNAME
+read -p "🙂 Enter your GitHub username: " GITHUB_USERNAME
 
 # Prompt for Personal Access Token
-read -s -p "Enter your GitHub Personal Access Token: " GITHUB_TOKEN
+read -s -p "🗝️ Enter your GitHub Personal Access Token: " GITHUB_TOKEN
 echo
 
 # Set Git configuration to use the provided token for authentication
